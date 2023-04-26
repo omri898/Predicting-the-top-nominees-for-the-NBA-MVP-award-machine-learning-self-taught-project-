@@ -7,9 +7,9 @@ Web scraping from "Basketball Reference" website.
 Here are the key things I'm doing:
 
 #### Key elements:
-* getting data on **past MVP winners** - downloading the HTML pages for each year using requests and extracted the tables using pandas.
-* Getting data on **player stats per season** - I used ChromeDriver and the Selenium library to render the webpage and load the complete HTML.
-* Getting data on **team record per season** - I downloaded the division standings of each division and extracted the tables using pandas.
+* Scraping data on **past MVP winners** - downloading the HTML pages for each year using requests and extracted the tables using pandas.
+* Scraping data on **player stats per season** - I used ChromeDriver and the Selenium library to render the webpage and load the complete HTML.
+* Scraping data on **team record per season** - I downloaded the division standings of each division and extracted the tables using pandas.
 
 Overall, I'm working with data from 1990/1991 season to 2021/2022 season (a total of 32 seasons).
  
