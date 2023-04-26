@@ -30,7 +30,7 @@ Overall, I'm working with data from 1990/1991 season to 2021/2022 season (a tota
 
 Finally, I merged the three datasets into one and created visualizations that highlight interesting insights.
 
-## Part 3 - Using Machine Learning
+## Part 3 - Predictitng Using Machine Learning
 I used regression to predict the 5 players with the highest share of votes.
 
 #### Key elements:
@@ -43,7 +43,9 @@ I used regression to predict the 5 players with the highest share of votes.
 * Testing on different models such as: Ridge Regression, Elastic Net Regression, Gradient Boosting and Random Forest.
 
 
-**The tools used for this project:** Pandas, Requests, BeautifulSoup, Selenium, Matplotlib and Seaborn
+**The libraries used for this project:** Pandas, Requests, BeautifulSoup, Selenium, Matplotlib, Seaborn.
+
+**The machine learning algorithms used:** Ridge Regression, Elastic Net Regression, Gradient Boosting and Random Forest.
 
 ## Conclusion
 Working on this project was a fulfilling and challenging experience for me. I had to learn different techniques in web scraping, data cleaning, visualization, and machine learning.
