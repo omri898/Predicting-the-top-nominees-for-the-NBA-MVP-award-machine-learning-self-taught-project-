@@ -1,5 +1,5 @@
 # Predicting the top nominees for the NBA MVP award 
-### A self taught machine learning project
+#### A self taught machine learning project
 
 ## Part 1
 
