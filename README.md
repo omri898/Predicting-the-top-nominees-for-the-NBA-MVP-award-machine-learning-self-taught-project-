@@ -16,7 +16,7 @@ Overall, I'm working with data from 1990/1991 season to 2021/2022 season (a tota
 
 ## Part 2 - Data Cleaning & Visualization
 
-The three datasets used in this project are:
+The three datasets used are:
 * Past MVP winners dataset
 * Players' stats dataset
 * Teams' stats dataset
