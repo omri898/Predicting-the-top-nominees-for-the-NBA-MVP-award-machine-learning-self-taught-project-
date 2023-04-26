@@ -44,3 +44,8 @@ I used regression to predict the 5 players with the highest share of votes.
 
 
 **The tools used for this project:** Pandas, Requests, BeautifulSoup, Selenium, Matplotlib and Seaborn
+
+## Conclusion
+Working on this project was a fulfilling and challenging experience for me. I had to learn different techniques in web scraping, data cleaning, visualization, and machine learning.
+
+I enjoyed working on this project as it allowed me to apply my data science skills learned in university, and new skills learned throughout the project, to a real-world problem and see the results of my work in a tangible way.
