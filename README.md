@@ -12,9 +12,7 @@ Here are the key things I'm doing:
 * Getting data on **team record per season** - I downloaded the division standings of each division and extracted the tables using pandas.
 
 Overall, I'm working with data from 1990/1991 season to 2021/2022 season (a total of 32 seasons).
-
-**Tools used:** Pandas, Requests, BeautifulSoup and Selenium
-
+ 
 ## Part 2 - Data Cleaning & Visualization
 
 #### The three datasets used are:
@@ -32,8 +30,6 @@ Overall, I'm working with data from 1990/1991 season to 2021/2022 season (a tota
 
 Finally, I merged the three datasets into one and created visualizations that highlight interesting insights.
 
-**Tools used:** Pandas, Matplotlib, Seaborn
-
 ## Part 3 - Using Machine Learning
 I used regression to predict the 5 players with the highest share of votes.
 
@@ -45,3 +41,6 @@ I used regression to predict the 5 players with the highest share of votes.
 * Using backtesting to get a more robust error metric.
 * Adding more predictors to get better results.
 * Testing on different models such as: Ridge Regression, Elastic Net Regression, Gradient Boosting and Random Forest.
+
+
+**The tools used for this project:** Pandas, Requests, BeautifulSoup, Selenium, Matplotlib and Seaborn
