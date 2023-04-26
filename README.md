@@ -1,12 +1,12 @@
 # Predicting the top nominees for the NBA MVP award 
-#### A self taught machine learning project
+### A self taught machine learning project
 
 ## Part 1 - Web Scraping
 
 Web scraping from "Basketball Reference" website.
 Here are the key things I'm doing:
 
-#### Key elements
+#### Key elements:
 * getting data on **past MVP winners** - downloading the HTML pages for each year using requests and extracted the tables using pandas.
 * Getting data on **player stats per season** - I used ChromeDriver and the Selenium library to render the webpage and load the complete HTML.
 * Getting data on **team record per season** - I downloaded the division standings of each division and extracted the tables using pandas.
@@ -35,7 +35,7 @@ Finally, I merged the three datasets into one and created visualizations that hi
 **Tools used:** Pandas, Matplotlib, Seaborn
 
 ## Part 3 - Using Machine Learning
-I used regression to predict the 5 players with the highest share of votes
+I used regression to predict the 5 players with the highest share of votes.
 
 #### Key elements:
 * Defining relevant predictors.
