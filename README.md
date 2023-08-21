@@ -1,7 +1,7 @@
 # Predicting the top nominees for the NBA MVP award 
 ### A self taught machine learning project
 
-## Part 1 - Web Scraping
+## [Part 1 - Web Scraping](./NBAWebScraper.ipynb)
 
 Web scraping from "Basketball Reference" website.
 Here are the key things I'm doing:
@@ -13,7 +13,7 @@ Here are the key things I'm doing:
 
 Overall, I'm working with data from 1990/1991 season to 2021/2022 season (a total of 32 seasons).
  
-## Part 2 - Data Cleaning & Visualization
+## [Part 2 - Data Cleaning & Visualization](./NBA_Data_Cleaning.ipynb)
 
 #### The three datasets used are:
 * Past MVP winners dataset
@@ -30,7 +30,7 @@ Overall, I'm working with data from 1990/1991 season to 2021/2022 season (a tota
 
 Finally, I merged the three datasets into one and created visualizations that highlight interesting insights.
 
-## Part 3 - Predictitng Using Machine Learning
+## [Part 3 - Predictitng Using Machine Learning](./NBA_Predicting_MVP.ipynb)
 I used regression to predict the 5 players with the highest share of votes.
 
 #### Key elements:
