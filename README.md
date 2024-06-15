@@ -1,5 +1,4 @@
 # Predicting the top nominees for the NBA MVP award 
-### A self taught machine learning project
 
 ## [Part 1 - Web Scraping](./NBAWebScraper.ipynb)
 
